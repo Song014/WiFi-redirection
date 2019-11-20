@@ -26,7 +26,8 @@ To https://github.com/Song014/WiFi-redirection.git
  * [new branch]      master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
 
-C:\Users\thdrl\Desktop\git\LINUX\WiFi_redirection> ```
+C:\Users\thdrl\Desktop\git\LINUX\WiFi_redirection>
+```
 
 ```C:\Users\thdrl\Desktop\git\APP\Project1>cd C:\Users\thdrl\Desktop\git\LINUX\WiFi_redirection
 
@@ -53,7 +54,8 @@ To https://github.com/Song014/WiFi-redirection.git
  * [new branch]      master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
 
-C:\Users\thdrl\Desktop\git\LINUX\WiFi_redirection> ```
+C:\Users\thdrl\Desktop\git\LINUX\WiFi_redirection>
+```
 
 ```C:\Users\thdrl\Desktop\git\APP\Project1>cd C:\Users\thdrl\Desktop\git\LINUX\WiFi_redirection
 
@@ -80,4 +82,5 @@ To https://github.com/Song014/WiFi-redirection.git
  * [new branch]      master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
 
-C:\Users\thdrl\Desktop\git\LINUX\WiFi_redirection> ```
+C:\Users\thdrl\Desktop\git\LINUX\WiFi_redirection>
+```
