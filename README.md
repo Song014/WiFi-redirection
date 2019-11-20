@@ -29,6 +29,4 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 C:\Users\thdrl\Desktop\git\LINUX\WiFi_redirection>
 ```
 
-`\건희꼬추는 3cm입니다.
-
-\`
+```건희꼬추는 3cm입니다. ```
