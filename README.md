@@ -12,9 +12,8 @@ Client의 웹 페이지 요청에 대해서 특정 URL은 허용, 나머지는 �
 
 ## 개발 환경 및 설정
 
-VirtualBox(LINUX):Ubuntu-14.04.1-desktop-i386.iso-32bit
-
-RTL8196D/E의 SDK 필요
+* VirtualBox(LINUX):Ubuntu-14.04.1-desktop-i386.iso-32bit
+* RTL8196D/E의 SDK 필요
 
 ```sh
 npm install build-essential
