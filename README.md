@@ -27,7 +27,7 @@ npm install zlib1g-dev
 
 busybox의 httpd 사용 체크 
 공유기의 웹서버 goahead or boa 웹서버의 방화벽관련 파일
-###goahead/LINUX/system/set_firewall.c에 다음 함수를 추가
+  goahead/LINUX/system/set_firewall.c에 다음 함수를 추가
 ```sh
 #if 1   // URL Redirect - KwanDong Univ.
    char WEB_REDIR_CHAIN[]="web_redir";
