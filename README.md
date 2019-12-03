@@ -111,7 +111,7 @@ MIBDEF(unsigned char,   web_redir_url, [40], WEB_REDIR_URL,  	STRING_T,   APMIB_
 
 XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할 수 있습니다.
 
-[https://github.com/song014/github-link](https://github.com/Song014/)
+[https://github.com/Song014/github-link](https://github.com/Song014/)
 
 ## 기여 방법
 
