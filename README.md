@@ -1,17 +1,20 @@
 # Wifi-Redirection(RTL8196D)
-> 간략한 프로젝트 소개 문구를 작성합니다.
+> RTL8196D/E 기반 WebRedir 기능 구현
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-한 두 문단으로 프로젝트 소개 글을 작성합니다.
+Client의 웹 페이지 요청에 대해서 특정 URL은 허용, 나머지는 차단하여 클라이언트 웹 페이지 요청 패킷을 후킹,
+해당 패킷을 공유기 자체 웹 서버로 전달하여 Redirection URL 클라이언트로 응답하는 기능 구현 
 
 ![](../header.png)
 
 ## 개발 환경 및 설정
 
 VirtualBox(LINUX):Ubuntu-14.04.1-desktop-i386.iso-32bit
+
+RTL8196D/E의 SDK 필요
 
 ```sh
 npm install build-essential
