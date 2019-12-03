@@ -119,7 +119,6 @@ XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할
 2. (`git checkout -b feature/fooBar`) 명령어로 새 브랜치를 만드세요.
 3. (`git commit -am 'Add some fooBar'`) 명령어로 커밋하세요.
 4. (`git push origin feature/fooBar`) 명령어로 브랜치에 푸시하세요. 
-5. 풀리퀘스트를 보내주세요.
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
